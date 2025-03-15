@@ -28,10 +28,10 @@ To mark a task as complete, simply click the checkbox next to the task descripti
 To delete a task, click the "Delete" button next to the task you want to delete. This will remove the task from the to-do list.
 
 Requirements
-HTML
-CSS
-Javascript
+   *HTML
+   *CSS
+   *Javascript
 Files
-index.html : This is the main file that contains the html code for the To-Do List.
-style.css : This file contains the styling for the To-Do List.
-script.js : This file contains the logic for the To-Do List, including adding, editing, and deleting tasks, and filtering the task list.
+.index.html : This is the main file that contains the html code for the To-Do List.
+..css : This file contains the styling for the To-Do List.
+.script.js : This file contains the logic for the To-Do List, including adding, editing, and deleting tasks, and filtering the task list.
