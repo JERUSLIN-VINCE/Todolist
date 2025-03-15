@@ -36,8 +36,8 @@ Requirements
 
 Files
 
-1.index.html : This is the main file that contains the html code for the To-Do List.
+1)index.html : This is the main file that contains the html code for the To-Do List.
 
-2.css : This file contains the styling for the To-Do List.
+2)css : This file contains the styling for the To-Do List.
 
-3.script.js : This file contains the logic for the To-Do List, including adding, editing, and deleting tasks, and filtering the task list.
+3)script.js : This file contains the logic for the To-Do List, including adding, editing, and deleting tasks, and filtering the task list.
