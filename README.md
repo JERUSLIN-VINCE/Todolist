@@ -11,7 +11,7 @@ To get a local copy up and running follow these simple example steps.
 Installation
 To run this application locally, you need to clone this repository to your local machine. You can do this by running the following command in your terminal:
 
-Clone the repo https://github.com/CodeStudio-Content/To-Do-List-JavaScript.git
+Clone the repo 
 cd To-Do-List-JavaScript
 Usage
 Open the index.html file in your browser
