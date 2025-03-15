@@ -1,3 +1,4 @@
+ 
 About The Project
 The To-Do List project is a simple web application that allows users to create and manage a list of tasks they need to complete. With a clean and intuitive interface, users can quickly add, edit, and delete tasks, as well as mark tasks as complete. This project is built with JavaScript and is a great example of a basic web application using DOM manipulation and event listeners.
 
